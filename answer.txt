@@ -35,4 +35,4 @@ Why should you have different branches?
 A branch creates a different isolated development line from the main stable branch. It lets members of a development team work individually and work on different features. This lets them work in isolation and then merge to the main branch when needed. It promotes parallel development. 
 
 In a project how many remote Git repositories do you usually have?
-It is possible to have unlimited Git repositories for a project. But 1 git repository is usually enough for a project.
+It is possible to have unlimited Git repositories for a project. But 1 git repository is usually enough for a project, by default its origin when you clone a repository.
